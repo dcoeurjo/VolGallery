@@ -1,2 +1,4 @@
 # VolGallery
-A gallery of volumetric images and objects
+
+A gallery of volumetric images and objects.
+
