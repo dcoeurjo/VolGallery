@@ -1,5 +1,7 @@
 # VolGallery
 
+
+
 A gallery of volumetric images and objects. All objects are given for
 various grid resolution. The file format is the VOL one (just an
 unsigned char raw file with an ascii header). In the
@@ -17,7 +19,9 @@ Object name | STL | Snapshot
 [Stanford-bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny/bunny.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Stanford-bunny/bunny.png)
 [XYZRGB-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/XYZRGB-dragon) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/XYZRGB-dragon/xyz-dragon.png)
 
+## AUTHORS
 
+* [David Coeurjolly](http://liris.cnrs.fr/david.coeurjolly) ([@dcoeurjo](https://github.com/dcoeurjo)), LIRIS - CNRS, France
 
 
 ## Disclaimer
