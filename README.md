@@ -1,12 +1,15 @@
 # VolGallery
 
-A gallery of volumetric images and objects.
+A gallery of volumetric images and objects. All objects are given for various grid resolution.
 
 
 Object name | STL | Snapshot
 ----------- | --- | --------
 [Chinese-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Chinese-dragon/dragon.png)
 [Fandisk](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk/fandisk.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Fandisk/fandisk.png)
+[Happy-Buddha](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha/buddha.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Happy-Buddha/buddha.png)
+[Octaflower](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower/octa-flower17k.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Octaflower/octa-flower.png)
+[Stanford-Bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-Bunny) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-Bunny/bunny.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Stanford-Bunny/bunny.png)
 
 
 
