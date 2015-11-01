@@ -25,7 +25,7 @@ Object name | STL | Snapshot
 * [David Coeurjolly](http://liris.cnrs.fr/david.coeurjolly) ([@dcoeurjo](https://github.com/dcoeurjo)), LIRIS - CNRS, France
 
 
-## Disclaimer
+## License & Disclaimer
 
 For each geometrical object, I have tried to specify the associated
 copyrights if applicable. For instance, the STL mesh file used to
