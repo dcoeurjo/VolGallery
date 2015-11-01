@@ -8,6 +8,7 @@ unsigned char raw file with an ascii header). In the
 [tools](https://github.com/dcoeurjo/VolGallery/tree/master/tools),
 various tools and converter on this format are given.
 
+An other  VOL file repository is available on the [IAPR TC-18](tc18.org) website.
 
 
 Object name | STL | Snapshot
