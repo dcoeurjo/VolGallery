@@ -9,7 +9,7 @@ Object name | STL | Snapshot
 [Fandisk](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk/fandisk.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Fandisk/fandisk.png)
 [Happy-Buddha](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha/buddha.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Happy-Buddha/buddha.png)
 [Octaflower](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower/octa-flower17k.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Octaflower/octa-flower.png)
-[Stanford-Bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-Bunny) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-Bunny/bunny.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Stanford-Bunny/bunny.png)
+[Stanford-bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny/bunny.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Stanford-bunny/bunny.png)
 
 
 
@@ -20,7 +20,7 @@ For each geometrical object, I have tried to specify the associated
 copyrights if applicable. For instance, the STL mesh file used to
 generate the volumetric Stanford Bunny objects belong to Stanford
 University  (see for instance
-[Stanford Bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-Bunny/)). 
+[Stanford Bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny/)). 
 
 In case some references are wrong and should be adjusted, please do
 not hesitate to send me an e-Mail.
