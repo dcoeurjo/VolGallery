@@ -1,6 +1,11 @@
 # VolGallery
 
-A gallery of volumetric images and objects. All objects are given for various grid resolution.
+A gallery of volumetric images and objects. All objects are given for
+various grid resolution. The file format is the VOL one (just an
+unsigned char raw file with an ascii header). In the
+[tools](https://github.com/dcoeurjo/VolGallery/tree/master/tools),
+various tools and converter on this format are given.
+
 
 
 Object name | STL | Snapshot

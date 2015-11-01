@@ -6,4 +6,9 @@
 
 
 * Many tools (visualization, converters, ... ) are availabe in the
-  [DGtalTools](https://github.com/DGtal-team/DGtalTools) project
+[DGtalTools](https://github.com/DGtal-team/DGtalTools) project
+
+* A simple C++ library (and CLI tools) to manage VOL files can also be
+  be found in the
+  [simplevol](http://liris.cnrs.fr/~dcoeurjo/Code/SimpleVol/)
+  project (not maintained anymore but still working). 
