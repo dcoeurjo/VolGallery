@@ -30,11 +30,25 @@ Object name | STL | Snapshot
 For each geometrical object, I have tried to specify the associated
 copyrights if applicable. For instance, the STL mesh file used to
 generate the volumetric Stanford Bunny objects belong to Stanford
-University  (see for instance
-[Stanford Bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny/)). 
+University (see for instance
+[Stanford Bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny/)). In
+case some references are wrong and should be adjusted, please do not
+hesitate to send me an e-Mail.
 
-In case some references are wrong and should be adjusted, please do
-not hesitate to send me an e-Mail.
+
+
+Beside copyrights associated with some STL mesh files, all volumetric
+objects are distributed using the BY-NC-ND Creative Commons Licence <a
+rel="license"
+href="http://creativecommons.org/licenses/by-nc-nd/2.0/fr/deed.en"><img
+alt="Creative Commons License" style="border-width:0"
+src="http://i.creativecommons.org/l/by-nc-nd/2.0/fr/88x31.png"
+/></a><br /> <a rel="license"
+href="http://creativecommons.org/licenses/by-nc-nd/2.0/fr/deed.en">Creative
+Commons Attribution-NonCommercial-NoDerivs 2.0 France License</a>.
+
+If you want to use distribute derivative of this work for your own
+purposes, contact the author.
 
 If you use digital objects from this repository, it would be great if
 you could "star" this project on GitHub or notify me.
