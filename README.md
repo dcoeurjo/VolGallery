@@ -3,12 +3,13 @@
 A gallery of volumetric images and objects.
 
 
-<center>
-<table>
-<th><td>Object name</td><td>STL</td><td>Snapshot</td></th>
-<tr><td>[Chinese-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon)</td><td>[STL](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.stl)</td><td>![](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.png)</td></tr>
-</center>
-</table>
+Object name | STL | Snapshot
+----------- | --- | --------
+[Chinese-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon)
+|
+[STL](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.stl)
+| ![](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.png)</td></tr>
+
 
 
 ## Disclaimer
