@@ -10,6 +10,7 @@ Object name | STL | Snapshot
 [Happy-Buddha](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha/buddha.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Happy-Buddha/buddha.png)
 [Octaflower](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower/octa-flower17k.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Octaflower/octa-flower.png)
 [Stanford-bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny/bunny.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Stanford-bunny/bunny.png)
+[XYZRGB-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/XYZRGB-dragon) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/XYZRGB-dragon/xyz-dragon.png)
 
 
 
