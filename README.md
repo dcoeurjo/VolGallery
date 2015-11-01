@@ -5,10 +5,8 @@ A gallery of volumetric images and objects.
 
 Object name | STL | Snapshot
 ----------- | --- | --------
-[Chinese-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon)
-|
-[STL](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.stl)
-| ![](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.png)</td></tr>
+[Chinese-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.stl) | ![](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.png)
+
 
 
 
