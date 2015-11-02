@@ -11,15 +11,15 @@ various tools and converter on this format are given.
 An other  VOL file repository is available on the [IAPR TC-18](http://tc18.org) website.
 
 
-Object name | STL | Snapshot
------------ | --- | --------
+Object name | Input | Snapshot
+----------- | ----- | --------
 [Chinese-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Chinese-dragon/dragon.png)
 [Fandisk](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk/fandisk.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Fandisk/fandisk.png)
 [Happy-Buddha](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha/buddha.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Happy-Buddha/buddha.png)
 [Octaflower](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower/octa-flower17k.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Octaflower/octa-flower.png)
 [Stanford-bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Stanford-bunny/bunny.png)
 [XYZRGB-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/XYZRGB-dragon) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/XYZRGB-dragon/xyz-dragon.png)
-[Shapes](https://github.com/dcoeurjo/VolGallery/tree/master/Shapes) |  |
+[Mathematical Shapes](https://github.com/dcoeurjo/VolGallery/tree/master/Shapes) | volgen |
 
 ## AUTHORS
 
