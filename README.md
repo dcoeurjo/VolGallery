@@ -25,6 +25,7 @@ Object name | Input | Snapshot
 ## AUTHORS
 
 * [David Coeurjolly](http://liris.cnrs.fr/david.coeurjolly) ([@dcoeurjo](https://github.com/dcoeurjo)), LIRIS - CNRS, France
+* [Jérémy Levallois](http://liris.cnrs.fr/jeremy.levallois) ([@jlevallois](https://github.com/jlevallois)), LIRIS - CNRS, France
 
 
 ## License & Disclaimer
