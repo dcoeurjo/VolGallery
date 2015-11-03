@@ -17,6 +17,7 @@ Object name | Input | Snapshot
 [Fandisk](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk/fandisk.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Fandisk/fandisk.png)
 [Happy-Buddha](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha/buddha.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Happy-Buddha/buddha.png)
 [Octaflower](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower/octa-flower17k.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Octaflower/octa-flower.png)
+[Sharpsphere](https://github.com/dcoeurjo/VolGallery/tree/master/Sharpsphere) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Sharpsphere/sharpsphere.png)
 [Stanford-bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Stanford-bunny/bunny.png)
 [XYZRGB-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/XYZRGB-dragon) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/XYZRGB-dragon/xyz-dragon.png)
 [Mathematical Shapes](https://github.com/dcoeurjo/VolGallery/tree/master/Shapes) | [volgen](http://liris.cnrs.fr/%7Edcoeurjo/Code/SimpleVol/Volgen/) |
@@ -61,6 +62,3 @@ To generate the digital objects  from a STL mesh file, I have used the
 [binvox](http://www.cs.princeton.edu/~min/binvox/) rasterizer. Once
 the boundary has been obtained, a simple interior filling process is
 applied to fill up the objects.
-
-
-
