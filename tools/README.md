@@ -4,6 +4,9 @@
 * [vol2raw.sh](https://github.com/dcoeurjo/VolGallery/blob/master/tools/vol2raw.sh):
   simple bash script to convert a vol file to an unsigned char raw file.
 
+* [volheader.sh](https://github.com/dcoeurjo/VolGallery/blob/master/tools/vol2raw.sh):
+  simple bash script to extract metadata from a vol file.
+
 
 * Many tools (visualization, converters, ... ) are availabe in the
 [DGtalTools](https://github.com/DGtal-team/DGtalTools) project
