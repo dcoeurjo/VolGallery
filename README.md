@@ -3,12 +3,12 @@
 
 
 A gallery of volumetric images and objects. All objects are given for
-various grid resolution. The file format is the VOL one (just an
-unsigned char raw file with an ascii header). In the
+various grid resolution (from 256^3 to 1024^3). The file format is the VOL one (just an
+unsigned char raw file with an ASCII header). In the
 [tools](https://github.com/dcoeurjo/VolGallery/tree/master/tools),
 various tools and converter on this format are given.
 
-An other  VOL file repository is available on the [IAPR TC-18](http://tc18.org) website.
+Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.
 
 
 Object name | Input | Snapshot
