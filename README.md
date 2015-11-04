@@ -2,7 +2,8 @@
 
 
 
-A gallery of volumetric images and objects. All objects are given for
+A gallery of volumetric images and objects (only binary objects at
+this point). All objects are given for
 various grid resolution (from 256^3 to 1024^3). The file format is the VOL one (just an
 unsigned char raw file with an ASCII header). In the
 [tools](https://github.com/dcoeurjo/VolGallery/tree/master/tools),
