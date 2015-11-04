@@ -1,4 +1,4 @@
-# Collection of scripts and tools to manage Vol files.
+# Collection of scripts and tools to manage Vol files
 
 
 * [vol2raw.sh](https://github.com/dcoeurjo/VolGallery/blob/master/tools/vol2raw.sh):
