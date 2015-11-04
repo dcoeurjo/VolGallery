@@ -72,7 +72,7 @@ The snapshots have been obtained using the
 [DGtalTools](https://github.com/DGtal-team/DGtalTools) tool ```3dVolBoundaryViewer```.
 
 
-## TODO
+### TODO
 
 * Move some VOL tools from
   [DGtalTools](https://github.com/DGtal-team/DGtalTools) to the
