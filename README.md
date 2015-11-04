@@ -68,9 +68,9 @@ applied to fill up the objects.
 
 ## TODO
 
-[] Move some VOL tools from
+[ ] Move some VOL tools from
   [DGtalTools](https://github.com/DGtal-team/DGtalTools) to the
   [tools](https://github.com/dcoeurjo/VolGallery/tree/master/tools)
   folder.
 
-[] Add the mesh rasterisation script
+[ ] Add the mesh rasterisation script
