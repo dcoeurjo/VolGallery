@@ -57,13 +57,19 @@ purposes, contact the author.
 If you use digital objects from this repository, it would be great if
 you could "star" this project on GitHub or notify me.
 
+## Misc
 
-## Rasterizer
+### Rasterizer
 
 To generate the digital objects  from a STL mesh file, I have used the
 [binvox](http://www.cs.princeton.edu/~min/binvox/) rasterizer. Once
 the boundary has been obtained, a simple interior filling process is
 applied to fill up the objects.
+
+### Snapshots
+
+The snapshots have been obtained using the
+[DGtalTools](https://github.com/DGtal-team/DGtalTools) tool ```3dVolBoundaryViewer```.
 
 
 ## TODO
