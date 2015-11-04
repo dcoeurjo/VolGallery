@@ -12,7 +12,7 @@ various tools and converter on this format are given.
 Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.
 
 
-Object name | Input | Snapshot
+Object name | Input | Snapshot (256^3 only)
 ----------- | ----- | --------
 [Chinese-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Chinese-dragon/dragon.png)
 [Fandisk](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk/fandisk.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Fandisk/fandisk.png)
@@ -72,5 +72,4 @@ applied to fill up the objects.
   [DGtalTools](https://github.com/DGtal-team/DGtalTools) to the
   [tools](https://github.com/dcoeurjo/VolGallery/tree/master/tools)
   folder.
-
-* Add the mesh rasterisation script
+* Add the mesh rasterisation script.
