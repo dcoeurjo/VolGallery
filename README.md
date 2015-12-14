@@ -16,6 +16,7 @@ Object name | Input | Snapshot (256^3 only)
 ----------- | ----- | --------
 [Chinese-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Chinese-dragon/dragon.png)
 [Fandisk](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Fandisk/fandisk.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Fandisk/fandisk.png)
+[Hairball](https://github.com/dcoeurjo/VolGallery/tree/master/Hairball) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Hairball/hairball.obj.gz) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Hairball/hairball.png)
 [Happy-Buddha](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Happy-Buddha/buddha.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Happy-Buddha/buddha.png)
 [Octaflower](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Octaflower/octa-flower17k.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Octaflower/octa-flower.png)
 [Sharpsphere](https://github.com/dcoeurjo/VolGallery/tree/master/Sharpsphere) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Sharpsphere/sharpsphere.png)
