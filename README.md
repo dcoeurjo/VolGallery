@@ -23,6 +23,7 @@ Object name | Input | Snapshot (256^3 only)
 [Stanford-bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Stanford-bunny/bunny.png)
 [XYZRGB-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/XYZRGB-dragon) |  | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/XYZRGB-dragon/xyz-dragon.png)
 [Cube-Sphere](https://github.com/dcoeurjo/VolGallery/tree/master/CubeSphere) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/CubeSphere/cubesphere.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/CubeSphere/cubesphere.png)
+[Torus-knot](https://github.com/dcoeurjo/VolGallery/tree/master/Torus-knot) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Torus-knot/Torus_Knot.STL) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Torus-knot/snapshot.png)
 [Mathematical Shapes](https://github.com/dcoeurjo/VolGallery/tree/master/Shapes)  [volgen](http://liris.cnrs.fr/%7Edcoeurjo/Code/SimpleVol/Volgen/) | |
 
 ## AUTHORS
