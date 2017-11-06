@@ -60,7 +60,7 @@ purposes, contact the author.
 If you use digital objects from this repository, it would be great if
 you could "star" this project on GitHub or notify me.
 
-## Misc
+## Misc
 
 ### Rasterizer
 
