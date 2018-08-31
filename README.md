@@ -67,7 +67,8 @@ you could "star" this project on GitHub or notify me.
 ### Rasterizer
 
 To generate the digital objects  from a STL mesh file, I have used the
-[binvox](http://www.cs.princeton.edu/~min/binvox/) rasterizer. Once
+[binvox](http://www.cs.princeton.edu/~min/binvox/) rasterizer or the mesh rasterized
+given in [DGtal](https://dgtal.org) (see DGtalTools). Once
 the boundary has been obtained, a simple interior filling process is
 applied to fill up the objects.
 
