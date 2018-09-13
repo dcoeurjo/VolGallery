@@ -1,10 +1,9 @@
 Walt Disney Animation Studio Clouds.
 
-High resolution volumetric cloud used in Walt Disney Moana movie.
+High resolution volumetric cloud used in Walt Disney Moana movie.These files correspond to a binary segmentation of original OpenVDB clouds (with filled interior).
 
 https://www.technology.disneyanimation.com/clouds
 
-These files correspond to binary segmentation of original WDAS clouds (with filled interior).
 
 LICENSING OF THE ORIGINAL FILES:
 
