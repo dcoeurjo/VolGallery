@@ -14,6 +14,7 @@ Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.
 
 Object name | Input | Snapshot (256^3 only)
 ----------- | ----- | --------
+[WDAS-Cloud](https://github.com/dcoeurjo/VolGallery/tree/master/WDAS_Cloud) | Walt Disney Animation Studio | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/WDAS_Cloud/wdas_cloud.png)
 [Fertility](https://github.com/dcoeurjo/VolGallery/tree/master/Fertility) | AIM@shape | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Fertility/fertility.png)
 [Filigree](https://github.com/dcoeurjo/VolGallery/tree/master/Filigree) | AIM@shape | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Filigree/filigree.png)
 [Chinese-dragon](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Chinese-dragon/dragon.stl) | ![](https://raw.githubusercontent.com/dcoeurjo/VolGallery/master/Chinese-dragon/dragon.png)
