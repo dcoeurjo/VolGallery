@@ -5,16 +5,16 @@ High resolution volumetric cloud used in Walt Disney Moana movie.These files cor
 https://www.technology.disneyanimation.com/clouds
 
 
-LICENSING OF THE ORIGINAL FILES:
+LICENSING OF THE ORIGINAL FILES AND THEIR DERIVATIVES:
 
-The contents of this package are Copyright 2017 Disney Enterprises,
-Inc. and are licensed under the Creative Commons Attribution-
-ShareAlike 3.0 Unported License. A copy of this license is available
-at http://creativecommons.org/licenses/by-sa/3.0/. The volumetric
-cloud model used for reference is a photograph by Kevin Udy provided
-on the Colorado Clouds Blog at https://coclouds.com/436/cumulus/
-2012-07-26/ and licensed under the Creative Commons Attribution-
-ShareAlike 3.0 Unported License.
+    The contents of this package are Copyright 2017 Disney Enterprises,
+    Inc. and are licensed under the Creative Commons Attribution-
+    ShareAlike 3.0 Unported License. A copy of this license is available
+    at http://creativecommons.org/licenses/by-sa/3.0/. The volumetric
+    cloud model used for reference is a photograph by Kevin Udy provided
+    on the Colorado Clouds Blog at https://coclouds.com/436/cumulus/
+    2012-07-26/ and licensed under the Creative Commons Attribution-
+    ShareAlike 3.0 Unported License.
 
 
 * `wdas_cloud_half.vol`: [PointVector] {-521, -162, -715}x [PointVector] {472, 513, 509}
