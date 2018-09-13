@@ -12,7 +12,7 @@ various tools and converter on this format are given.
 Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.
 
 
-Object name | Input | Snapshot (256^3 only)
+Object name | Input | Snapshot
 ----------- | ----- | --------
 [WDAS-Cloud](https://github.com/dcoeurjo/VolGallery/tree/master/WDAS-Cloud) | Walt Disney Animation Studio | ![](WDAS-Cloud/wdas_cloud.png)
 [Fertility](https://github.com/dcoeurjo/VolGallery/tree/master/Fertility) | AIM@shape | ![](Fertility/fertility.png)
