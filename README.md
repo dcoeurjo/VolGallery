@@ -1,6 +1,6 @@
 # VolGallery
 
-
+![](output.png)
 
 A gallery of volumetric images and objects (only binary objects at
 this point). All objects are given for
