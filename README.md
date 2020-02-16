@@ -39,7 +39,7 @@ Object name | Input | Snapshot
 
 For each geometrical object, I have tried to specify the associated
 copyrights if applicable. For instance, the STL mesh file used to
-generate the volumetric Stanford Bunny objects belong to Stanford
+generate the volumetric Stanford Bunny objects belongs to Stanford
 University (see for instance
 [Stanford Bunny](https://github.com/dcoeurjo/VolGallery/tree/master/Stanford-bunny/)). In
 case some references are wrong and should be adjusted, please do not
