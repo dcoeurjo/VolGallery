@@ -14,6 +14,8 @@ Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.
 
 Object name | Input | Snapshot
 ----------- | ----- | --------
+[Spot](https://github.com/dcoeurjo/VolGallery/tree/master/Spot) | [OBJ](https://github.com/dcoeurjo/VolGallery/tree/master/Spot/spot.obj) | ![](Spot/spot.png)
+[Horse](https://github.com/dcoeurjo/VolGallery/tree/master/Horse) | [OBJ](https://github.com/dcoeurjo/VolGallery/tree/master/Horse/horse.obj) | ![](Horse/horse.png)
 [WDAS-Cloud](https://github.com/dcoeurjo/VolGallery/tree/master/WDAS-Cloud) | Walt Disney Animation Studio | ![](WDAS-Cloud/wdas_cloud.png)
 [Fertility](https://github.com/dcoeurjo/VolGallery/tree/master/Fertility) | AIM@shape | ![](Fertility/fertility.png)
 [Filigree](https://github.com/dcoeurjo/VolGallery/tree/master/Filigree) | AIM@shape | ![](Filigree/filigree.png)
@@ -73,16 +75,11 @@ given in [DGtal](https://dgtal.org) (see DGtalTools). Once
 the boundary has been obtained, a simple interior filling process is
 applied to fill up the objects.
 
+In the [tools](https://github.com/dcoeurjo/VolGallery/tree/master/tools) folder, I've added
+the shell script that I use to generate the vol files from an OFF gemetry using [DGtal](dgtal.org) tools.
+
+
 ### Snapshots
 
 The snapshots have been obtained using the
 [DGtalTools](https://github.com/DGtal-team/DGtalTools) tool ```3dVolBoundaryViewer```.
-
-
-### TODO
-
-* Move some VOL tools from
-  [DGtalTools](https://github.com/DGtal-team/DGtalTools) to the
-  [tools](https://github.com/dcoeurjo/VolGallery/tree/master/tools)
-  folder.
-* Add the mesh rasterisation script.
