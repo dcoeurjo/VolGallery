@@ -15,6 +15,7 @@ Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.
 Object name | Input | Snapshot
 ----------- | ----- | --------
 [Spot](https://github.com/dcoeurjo/VolGallery/tree/master/Spot) | [OBJ](https://github.com/dcoeurjo/VolGallery/tree/master/Spot/spot.obj) | ![](Spot/spot.png)
+[Lucy](https://github.com/dcoeurjo/VolGallery/tree/master/Lucy) | [STL](https://github.com/dcoeurjo/VolGallery/tree/master/Spot/lucy.stl) | ![](Lucy/lucy.png)
 [Horse](https://github.com/dcoeurjo/VolGallery/tree/master/Horse) | [OBJ](https://github.com/dcoeurjo/VolGallery/tree/master/Horse/horse.obj) | ![](Horse/horse.png)
 [WDAS-Cloud](https://github.com/dcoeurjo/VolGallery/tree/master/WDAS-Cloud) | Walt Disney Animation Studio | ![](WDAS-Cloud/wdas_cloud.png)
 [Fertility](https://github.com/dcoeurjo/VolGallery/tree/master/Fertility) | AIM@shape | ![](Fertility/fertility.png)
