@@ -9,8 +9,7 @@ ASCII header and a zlib compressed unsigned char map). In the
 [tools](https://github.com/dcoeurjo/VolGallery/tree/master/tools),
 various tools and converter on this format are given.
 
-Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.
-
+Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.xs
 
 Object name | Input | Snapshot
 ----------- | ----- | --------
