@@ -13,6 +13,7 @@ Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.xs
 
 Object name | Input | Snapshot
 ----------- | ----- | --------
+[Murex](https://github.com/dcoeurjo/VolGallery/tree/main/Murex_Romosus) | [STL](https://threedscans.com/wp-content/uploads/2016/04/Murex_Romosus.stl.zip) | ![](Murex_Romosus/murex.png)
 [Nefertiti](https://github.com/dcoeurjo/VolGallery/tree/main/Nefertiti) | [OBJ](https://github.com/dcoeurjo/VolGallery/tree/main/Nefertiti/Nefertiti.obj) | ![](Nefertiti/Nefertiti.png)
 [Spot](https://github.com/dcoeurjo/VolGallery/tree/main/Spot) | [OBJ](https://github.com/dcoeurjo/VolGallery/tree/main/Spot/spot.obj) | ![](Spot/spot.png)
 [Lucy](https://github.com/dcoeurjo/VolGallery/tree/main/Lucy) | [STL](https://github.com/dcoeurjo/VolGallery/tree/main/Lucy/lucy.stl) | ![](Lucy/lucy.png)
