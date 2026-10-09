@@ -13,7 +13,7 @@ Other  VOL files are available on the [IAPR TC-18](http://tc18.org) website.xs
 
 Object name | Input | Snapshot
 ----------- | ----- | --------
-[Beard Man](https://github.com/dcoeurjo/VolGallery/tree/main/Beard-man) | [STL](https://threedscans.com/wp-content/uploads/2017/01/Bearded-Man.stl.zip) | ![](Beard-man/Beard-man.png)
+[Bearded Man](https://github.com/dcoeurjo/VolGallery/tree/main/Bearded-man) | [STL](https://threedscans.com/wp-content/uploads/2017/01/Bearded-Man.stl.zip) | ![](Bearded-man/Bearded-man.png)
 [Murex](https://github.com/dcoeurjo/VolGallery/tree/main/Murex_Romosus) | [STL](https://threedscans.com/wp-content/uploads/2016/04/Murex_Romosus.stl.zip) | ![](Murex_Romosus/murex.png)
 [Nefertiti](https://github.com/dcoeurjo/VolGallery/tree/main/Nefertiti) | [OBJ](https://github.com/dcoeurjo/VolGallery/tree/main/Nefertiti/Nefertiti.obj) | ![](Nefertiti/Nefertiti.png)
 [Spot](https://github.com/dcoeurjo/VolGallery/tree/main/Spot) | [OBJ](https://github.com/dcoeurjo/VolGallery/tree/main/Spot/spot.obj) | ![](Spot/spot.png)
